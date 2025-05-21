@@ -1,0 +1,12 @@
+[book]
+authors = ["Eduardo Henrique Freire Machado"]
+language = "pt-br"
+src = "src"
+title = "Guia de Extração de Dados"
+description = "Guia do analista de dados, com foco em automatização e web scraping."
+
+[output.html]
+git-repository-url = "https://github.com/seplan-rr/guia-do-analista-de-dados"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/seplan-rr/guia-do-analista-de-dados/edit/main/{path}"
+input-404 = "404.md"
