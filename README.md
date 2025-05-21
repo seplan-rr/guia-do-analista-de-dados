@@ -1,6 +1,6 @@
-# Guia do Analista de Dados
+# Guia do Analista de Dados da SEPLAN/RR
 
-Guia do analista de dados, com foco em automatização e web scraping.
+Guia do analista de dados da SEPLAN/RR, com foco em automatização e web scraping.
 
 ## Ambiente de Desenvolvimento
 
