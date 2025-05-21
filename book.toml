@@ -2,8 +2,8 @@
 authors = ["Eduardo Henrique Freire Machado"]
 language = "pt-br"
 src = "src"
-title = "Guia de Extração de Dados"
-description = "Guia do analista de dados, com foco em automatização e web scraping."
+title = "Guia do Analista de Dados da SEPLAN/RR"
+description = "Guia do analista de dados da SEPLAN/RR, com foco em automatização e web scraping."
 
 [output.html]
 git-repository-url = "https://github.com/seplan-rr/guia-do-analista-de-dados"
