@@ -6,7 +6,7 @@ Caso você já tenha um pouco de experiência e esteja apenas com alguma dificul
 
 ## Objetivo
 
-Esse guia foi criado com a intenção de ajudar os meus colegas de trabalho a entender e aplicar as melhores práticas do mercado de Ciência de Dados. Nosso trabalho envolve a constante automatização de processos de ETL, e um guia como esse facilita a integração de novos membros ao time.
+Esse guia foi criado com a intenção de ajudar os meus colegas de trabalho a entender e aplicar as melhores práticas do mercado de ciência de dados. Nosso trabalho envolve a constante automatização de processos de *ETL*, e um guia como esse facilita a integração de novos membros ao time.
 
 ## Nota do Autor
 

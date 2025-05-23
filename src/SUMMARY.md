@@ -5,7 +5,7 @@
 # Conceitos
 
 - [Processo de ETL](./conceitos/processo-de-etl.md)
-- [Extração]()
+- [Extração](./conceitos/extracao.md)
   - [Web Scraping]()
     - [Ética e Legalidade]()
   - [API]()
@@ -17,6 +17,9 @@
     - [XLS ou XLSX]()
     - [JSON]()
     - [XML]()
+  - [Arquivos Não Estruturados]()
+    - [PDF]()
+    - [Texto]()
 - [Transformação]()
   - [Limpeza de Dados]()
   - [Validação de Dados]()
